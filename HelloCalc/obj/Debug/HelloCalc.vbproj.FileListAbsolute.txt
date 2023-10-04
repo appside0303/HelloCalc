@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\bin\Debug\HelloCalc.exe.config
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\bin\Debug\HelloCalc.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\bin\Debug\HelloCalc.pdb
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\bin\Debug\HelloCalc.xml
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\obj\Debug\HelloCalc.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\obj\Debug\HelloCalc.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\obj\Debug\HelloCalc.exe
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\obj\Debug\HelloCalc.xml
+c:\users\user\documents\visual studio 2013\Projects\HelloCalc\HelloCalc\obj\Debug\HelloCalc.pdb
